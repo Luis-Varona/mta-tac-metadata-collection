@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">462</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="462"created_at="2024-11-20" date_created="" file_id="462" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="462" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-01.pdf</name>
+      <file id="462" filesize="317072" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/1/29-01.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="156" url_path="" seq="0" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">462</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Some stability properties of epimorphism classes</title>
+      <abstract locale="en"><p>It is proved that in any pointed category with pullbacks, coequalizers and regular epi-mono factorizations, the class of regular epimorphisms is stable under pullback along the so-called balanced effective descent morphisms. Here ``balanced'' can be omitted if the category is additive. A balanced effective descent morphism is defined as an effective descent morphism $p:E\rightarrow B$ such that any subobject of $E$ is a pullback of some morphism along $p$. It is shown that, in any category with pullbacks and coequalizers, the class of effective descent morphisms is stable under pushout if and only if any regular epimorphism is an effective descent morphism. Moreover, it is shown that the class of descent morphisms is stable under pushout if and only if the class of regular epimorphisms is stable under pullback.</p><p>2010 MSC: 18A20, 18A32, 18A30, 18C20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>(effective) descent morphism</keyword>
+        <keyword>balanced morphism</keyword>
+        <keyword>factorization system</keyword>
+        <keyword>(effective) descent morphism</keyword>
+        <keyword>balanced morphism</keyword>
+        <keyword>factorization system</keyword>
+        <keyword>stability under pullback/pushout</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="156">
+          <givenname>Dali</givenname locale="en">
+         <familyname locale="en">Zangurashvili</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">462</id>
+        <name locale="en">PDF</name>
+        <seq>0</seq>
+        <submission_file_ref id="462"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>1-16</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">463</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="463"created_at="2024-11-20" date_created="" file_id="463" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="463" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-02.pdf</name>
+      <file id="463" filesize="228518" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/2/29-02.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="104" url_path="" seq="1" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">463</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Erratum to `Towards a homotopy theory of higher dimensional transition systems'</title>
+      <abstract locale="en"><p>Counterexamples for Proposition~8.1 and Proposition~8.2 in the article <i>Theor. Appl. Categ. 25(2011), pp 295-341</i> are given. They are used in the paper only to prove Corollary~8.3. A proof of this corollary is given without them. The proof of the fibrancy of some cubical transition systems is fixed.</p><p>2010 MSC: 18C35, 18G55, 55U35, 68Q85.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>higher dimensional transition system</keyword>
+        <keyword>locally presentable higher dimensional transition system</keyword>
+        <keyword>locally presentable category</keyword>
+        <keyword>topological category</keyword>
+        <keyword>combinatorial model category</keyword>
+        <keyword>left determined model category</keyword>
+        <keyword>Bousfield localization</keyword>
+        <keyword>bisimulation</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="104">
+          <givenname>Philippe</givenname locale="en">
+         <familyname locale="en">Gaucher</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">463</id>
+        <name locale="en">PDF</name>
+        <seq>1</seq>
+        <submission_file_ref id="463"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>17-20</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">464</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="464"created_at="2024-11-20" date_created="" file_id="464" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="464" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-03.pdf</name>
+      <file id="464" filesize="409937" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/3/29-03.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="381" url_path="" seq="2" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">464</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">On the image of the almost strict Morse n-category under almost strict n-functors</title>
+      <abstract locale="en"><p>In an earlier work, we constructed the almost strict Morse n-category $\mathcal X$ which extends Cohen and Jones and Segal's flow category. In this article, we define two other almost strict n-categories $\mathcal V$ and $\mathcal W$ where $\mathcal V$ is based on homomorphisms between real vector spaces and $\mathcal W$ consists of tuples of positive integers. The Morse index and the dimension of the Morse moduli spaces give rise to almost strict n-category functors $\mathcal F : \mathcal X \to \mathcal V$ and $\mathcal G : \mathcal X \to \mathcal W$.</p><p>2010 MSC: 18B99, 18D99, 55U99, 58E05.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>n-category</keyword>
+        <keyword>Morse theory</keyword>
+        <keyword>functors</keyword>
+        <keyword>moduli spaces n-category</keyword>
+        <keyword>Morse theory</keyword>
+        <keyword>functors</keyword>
+        <keyword>moduli spaces</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="381">
+          <givenname>Sonja</givenname locale="en">
+         <familyname locale="en">Hohloch</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">464</id>
+        <name locale="en">PDF</name>
+        <seq>2</seq>
+        <submission_file_ref id="464"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>21-47</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">465</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="465"created_at="2024-11-20" date_created="" file_id="465" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="465" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-04.pdf</name>
+      <file id="465" filesize="1100104" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/4/29-04.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="382" url_path="" seq="3" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">465</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Obvious natural morphisms of sheaves are unique</title>
+      <abstract locale="en"><p>We prove that a large class of natural transformations (consisting roughly of those constructed via composition from the ``functorial'' or ``base change'' transformations) between two functors of the form $... f^* g_* ...$ actually has only one element, and thus that any diagram of such maps necessarily commutes. We identify the precise axioms defining what we call a ``geofibered category'' that ensure that such a coherence theorem exists. Our results apply to all the usual sheaf-theoretic contexts of algebraic geometry. The analogous result that would include any other of the six functors remains unknown.</p><p>2010 MSC: Primary 14A15; Secondary 18D30, 18A25.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>commutative diagrams</keyword>
+        <keyword>coherence theorem</keyword>
+        <keyword>string diagrams</keyword>
+        <keyword>commutative diagrams</keyword>
+        <keyword>coherence theorem</keyword>
+        <keyword>string diagrams</keyword>
+        <keyword>pullback</keyword>
+        <keyword>pushforward</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="382">
+          <givenname>Ryan Cohen</givenname locale="en">
+         <familyname locale="en">Reich</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">465</id>
+        <name locale="en">PDF</name>
+        <seq>3</seq>
+        <submission_file_ref id="465"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>48-99</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">466</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="466"created_at="2024-11-20" date_created="" file_id="466" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="466" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-05.pdf</name>
+      <file id="466" filesize="968202" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/5/29-05.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="383" url_path="" seq="4" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">466</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Mapping Spaces of Gray-Categories</title>
+      <abstract locale="en"><p>We define a mapping space for Gray-enriched categories adapted to higher gauge theory. Our construction differs significantly from the canonical mapping space of enriched categories in that it is much less rigid. The two essential ingredients are a path space construction for Gray-categories and a kind of comonadic resolution of the 1-dimensional structure of a given Gray-category obtained by lifting the resolution of ordinary categories along the canonical fibration of GrayCat over Cat.</p><p>2010 MSC: primary: 18D05, 18D20; secondary: 55Q15.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Higher gauge theory</keyword>
+        <keyword>Gray-categories Higher gauge theory</keyword>
+        <keyword>Gray-categories</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="383">
+          <givenname>Bj&ouml;rn</givenname locale="en">
+         <familyname locale="en">Gohla</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">466</id>
+        <name locale="en">PDF</name>
+        <seq>4</seq>
+        <submission_file_ref id="466"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>100-187</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">467</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="467"created_at="2024-11-20" date_created="" file_id="467" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="467" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-06.pdf</name>
+      <file id="467" filesize="283112" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/6/29-06.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="384" url_path="" seq="5" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">467</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Analytic spectrum of rig categories</title>
+      <abstract locale="en"><p>We define the analytic spectrum of a rig category $(A,\oplus,\otimes)$, and equip it with a sheaf of categories of rational functions. If the category is additive, we define a sheaf of categories of analytic functions. We relate this construction to Berkovich's analytic spaces, to Durov's generalized schemes and to Haran's F-schemes. We use these relations to define analytic versions of Arakelov compactifications of affine arithmetic varieties.</p><p>2010 MSC: 18D10, 14G22, 14G25, 11G35, 18C15.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Rig categories</keyword>
+        <keyword>global analytic geometry</keyword>
+        <keyword>generalized rings</keyword>
+        <keyword>Rig categories</keyword>
+        <keyword>global analytic geometry</keyword>
+        <keyword>generalized rings</keyword>
+        <keyword>Arakelov compactifications</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="384">
+          <givenname>Frederic</givenname locale="en">
+         <familyname locale="en">Paugam</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">467</id>
+        <name locale="en">PDF</name>
+        <seq>5</seq>
+        <submission_file_ref id="467"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>188-197</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">468</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="468"created_at="2024-11-20" date_created="" file_id="468" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="468" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-07.pdf</name>
+      <file id="468" filesize="398251" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/7/29-07.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="295" url_path="" seq="6" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">468</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">A Galois theory for monoids</title>
+      <abstract locale="en"><p>We show that the adjunction between monoids and groups obtained via the Grothendieck group construction is admissible, relatively to surjective homomorphisms, in the sense of categorical Galois theory. The central extensions with respect to this Galois structure turn out to be the so-called <i>special homogeneous surjections.</i></p><p>2010 MSC: 20M32, 20M50, 11R32, 19C09, 18F30.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>categorical Galois theory</keyword>
+        <keyword>homogeneous split categorical Galois theory</keyword>
+        <keyword>homogeneous split epimorphism</keyword>
+        <keyword>special homogeneous surjection</keyword>
+        <keyword>central extension</keyword>
+        <keyword>group completion</keyword>
+        <keyword>Grothendieck group</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="295">
+          <givenname>Andrea</givenname locale="en">
+         <familyname locale="en">Montoli</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="160">
+          <givenname>Diana</givenname locale="en">
+         <familyname locale="en">Rodelo</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="2" id="302">
+          <givenname>Tim Van der</givenname locale="en">
+         <familyname locale="en">Linden</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">468</id>
+        <name locale="en">PDF</name>
+        <seq>6</seq>
+        <submission_file_ref id="468"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>198-214</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">469</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="469"created_at="2024-11-20" date_created="" file_id="469" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="469" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-08.pdf</name>
+      <file id="469" filesize="410992" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/8/29-08.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="385" url_path="" seq="7" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">469</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Twisted actions of categorical groups</title>
+      <abstract locale="en"><p>We develop a theory of twisted actions of categorical groups using a notion of semidirect product of categories. We work through numerous examples to demonstrate the power of these notions. Turning to representations, which are actions that respect vector space structures, we establish an analog of Schur's lemma in this context. Keeping new terminology to a minimum, we concentrate on examples exploring the essential new notions introduced.</p><p>2010 MSC: Primary18D05; Secondary: 20C99.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Representations</keyword>
+        <keyword>Double Categories</keyword>
+        <keyword>Categorical Groups</keyword>
+        <keyword>2-Groups</keyword>
+        <keyword>Representations</keyword>
+        <keyword>Double Categories</keyword>
+        <keyword>Categorical Groups</keyword>
+        <keyword>2-Groups</keyword>
+        <keyword>Semidirect Products</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="385">
+          <givenname>Saikat</givenname locale="en">
+         <familyname locale="en">Chatterjee</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="386">
+          <givenname>Amitabha</givenname locale="en">
+         <familyname locale="en">Lahiri</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="2" id="387">
+          <givenname>Ambar N.</givenname locale="en">
+         <familyname locale="en">Sengupta</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">469</id>
+        <name locale="en">PDF</name>
+        <seq>7</seq>
+        <submission_file_ref id="469"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>215-255</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">470</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="470"created_at="2024-11-20" date_created="" file_id="470" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="470" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-09.pdf</name>
+      <file id="470" filesize="656696" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/9/29-09.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="388" url_path="" seq="8" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">470</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">The theory and practice of Reedy categories</title>
+      <abstract locale="en"><p>The goal of this paper is to demystify the role played by the Reedy category axioms in homotopy theory. With no assumed prerequisites beyond a healthy appetite for category theoretic arguments, we present streamlined proofs of a number of useful technical results, which are well known to folklore but difficult to find in the literature. While the results presented here are not new, our approach to their proofs is somewhat novel. Specifically, we reduce much of the hard work involved to simpler computations involving <i>weighted colimits</i> and <i>Leibniz (pushout-product) constructions</i>. The general theory is developed in parallel with examples, which we use to prove that familiar formulae for homotopy limits and colimits indeed have the desired properties.</p><p>2010 MSC: 55U35, 18G30, 18D10.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>reedy categories</keyword>
+        <keyword>homotopy limits and colimits</keyword>
+        <keyword>weighted limits and colimits reedy categories</keyword>
+        <keyword>homotopy limits and colimits</keyword>
+        <keyword>weighted limits and colimits</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="388">
+          <givenname>Emily</givenname locale="en">
+         <familyname locale="en">Riehl</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="297">
+          <givenname>Dominic</givenname locale="en">
+         <familyname locale="en">Verity</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">470</id>
+        <name locale="en">PDF</name>
+        <seq>8</seq>
+        <submission_file_ref id="470"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>256-301</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">471</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="471"created_at="2024-11-20" date_created="" file_id="471" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="471" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-10.pdf</name>
+      <file id="471" filesize="288818" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/10/29-10.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="389" url_path="" seq="9" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">471</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Finite products in partial morphism categories</title>
+      <abstract locale="en"><p>In this article we give necessary and sufficient conditions for a binary product to exist in a partial morphism category. We also give necessary and sufficient conditions for the existence of a productive terminal in such categories.</p><p>2010 MSC: 18A30, 18B99.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>partial morphism category</keyword>
+        <keyword>partial morphism classifier</keyword>
+        <keyword>binary product</keyword>
+        <keyword>partial morphism category</keyword>
+        <keyword>partial morphism classifier</keyword>
+        <keyword>binary product</keyword>
+        <keyword>terminal object</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="389">
+          <givenname>S. N.</givenname locale="en">
+         <familyname locale="en">Hosseini</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="390">
+          <givenname>A. R. Shir Ali</givenname locale="en">
+         <familyname locale="en">Nasab</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">471</id>
+        <name locale="en">PDF</name>
+        <seq>9</seq>
+        <submission_file_ref id="471"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>302-314</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">472</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="472"created_at="2024-11-20" date_created="" file_id="472" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="472" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-11.pdf</name>
+      <file id="472" filesize="359078" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/11/29-11.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="146" url_path="" seq="10" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">472</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Duality in non-abelian algebra I. From cover relations to Grandis ex2-categories</title>
+      <abstract locale="en"><p>The aim of this series of papers is to develop a self-dual categorical approach to some topics in non-abelian algebra, which is based on replacing the framework of a category with that of a category equipped with a functor to it. The present paper gives some preliminary steps in this direction, where several known structures on a category, which arise in the categorical treatment of these topics, are viewed as such functors; as a result, we obtain some new conceptual links between these structures.</p><p>2010 MSC: 18D30, 18A32, 18A20, 18E10, 18G50, 06A15, 06A75, 06F99.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>biform</keyword>
+        <keyword>cover relation</keyword>
+        <keyword>ex2-category</keyword>
+        <keyword>factorization system</keyword>
+        <keyword>faithful biform</keyword>
+        <keyword>cover relation</keyword>
+        <keyword>ex2-category</keyword>
+        <keyword>factorization system</keyword>
+        <keyword>faithful amnestic functor</keyword>
+        <keyword>form</keyword>
+        <keyword>Grothendieck fibration</keyword>
+        <keyword>ideal of null morphisms</keyword>
+        <keyword>subobject</keyword>
+        <keyword>universalizer</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="146">
+          <givenname>Zurab</givenname locale="en">
+         <familyname locale="en">Janelidze</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="391">
+          <givenname>Thomas</givenname locale="en">
+         <familyname locale="en">Weighill</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">472</id>
+        <name locale="en">PDF</name>
+        <seq>10</seq>
+        <submission_file_ref id="472"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>315-331</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">473</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="473"created_at="2024-11-20" date_created="" file_id="473" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="473" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-12.pdf</name>
+      <file id="473" filesize="523464" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/12/29-12.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="326" url_path="" seq="11" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">473</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">On the infinity category of homotopy Leibniz algebras</title>
+      <abstract locale="en"><p>We discuss various concepts of $\infty$-homotopies, as well as the relations between them (focussing on the Leibniz type). In particular $\infty$-$n$-homotopies appear as the $n$-simplices of the nerve of a complete Lie ${\infty}$-algebra. In the nilpotent case, this nerve is known to be a Kan complex. We argue that there is a quasi-category of $\infty$-algebras and show that for truncated $\infty$-algebras, i.e. categorified algebras, this $\infty$-categorical structure projects to a strict 2-categorical one. The paper contains a shortcut to $(\infty,1)$-categories, as well as a review of Getzler's proof of the Kan property. We make the latter concrete by applying it to the 2-term $\infty$-algebra case, thus recovering the concept of homotopy of Baez and Crans, as well as the corresponding composition rule \cite{SS07}. We also answer a question of Shoikhet about composition of $\infty$-homotopies of $\infty$-algebras.</p><p>2010 MSC: 18D99, 55P99, 55U10, 17A32.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Homotopy algebra</keyword>
+        <keyword>categorified algebra</keyword>
+        <keyword>higher category</keyword>
+        <keyword>quasi-category</keyword>
+        <keyword>Homotopy algebra</keyword>
+        <keyword>categorified algebra</keyword>
+        <keyword>higher category</keyword>
+        <keyword>quasi-category</keyword>
+        <keyword>Kan complex</keyword>
+        <keyword>Maurer-Cartan equation</keyword>
+        <keyword>composition of homotopies</keyword>
+        <keyword>Leibniz algebra</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="326">
+          <givenname>David</givenname locale="en">
+         <familyname locale="en">Khudaverdyan</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="328">
+          <givenname>Norbert</givenname locale="en">
+         <familyname locale="en">Poncin</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="2" id="392">
+          <givenname>Jian</givenname locale="en">
+         <familyname locale="en">Qiu</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">473</id>
+        <name locale="en">PDF</name>
+        <seq>11</seq>
+        <submission_file_ref id="473"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>332-370</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">474</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="474"created_at="2024-11-20" date_created="" file_id="474" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="474" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-13.pdf</name>
+      <file id="474" filesize="283823" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/13/29-13.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="20" url_path="" seq="12" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">474</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Projective lines as groupoids with projection structure</title>
+      <abstract locale="en"><p>The coordinate projective line over a field is seen as a groupoid with a further `projection' structure. We investigate conversely to what extent such an, abstractly given, groupoid may be coordinatized by a suitable field constructed out of the geometry.</p><p>2010 MSC: 18B40, 18D99, 51A25.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>projective geometry</keyword>
+        <keyword>groupoids</keyword>
+        <keyword>geometric algebra projective geometry</keyword>
+        <keyword>groupoids</keyword>
+        <keyword>geometric algebra</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="20">
+          <givenname>Anders</givenname locale="en">
+         <familyname locale="en">Kock</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">474</id>
+        <name locale="en">PDF</name>
+        <seq>12</seq>
+        <submission_file_ref id="474"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>371-388</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">475</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="475"created_at="2024-11-20" date_created="" file_id="475" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="475" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-14.pdf</name>
+      <file id="475" filesize="345533" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/14/29-14.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="393" url_path="" seq="13" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">475</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Toward categorical risk measure theory</title>
+      <abstract locale="en"><p>We introduce a category that represents varying risk as well as ambiguity. We give a generalized conditional expectation as a presheaf for this category, which not only works as a traditional conditional expectation given a $\sigma$-field but also is compatible with change of measure. Then, we reformulate dynamic monetary value measures as a presheaf for the category. We show how some axioms of dynamic monetary value measures in the classical setting are deduced as theorems in the new formulation, which is evidence that the axioms are correct. Finally, we point out the possibility of giving a theoretical criteria with which we can pick up appropriate sets of axioms required for monetary value measures to be good, using a topology-as-axioms paradigm.</p><p>2010 MSC: Primary 91B30, 16B50; secondary 91B82, 18F10.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>conditional expectation</keyword>
+        <keyword>conditional expectation</keyword>
+        <keyword>Radon-Nikodym derivative</keyword>
+        <keyword>monetary value measure</keyword>
+        <keyword>sheaf</keyword>
+        <keyword>Grothendieck topology</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="393">
+          <givenname>Takanori</givenname locale="en">
+         <familyname locale="en">Adachi</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">475</id>
+        <name locale="en">PDF</name>
+        <seq>13</seq>
+        <submission_file_ref id="475"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>389-405</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">476</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="476"created_at="2024-11-20" date_created="" file_id="476" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="476" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-15.pdf</name>
+      <file id="476" filesize="395633" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/15/29-15.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="349" url_path="" seq="14" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">476</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Topological functors as total categories</title>
+      <abstract locale="en"><p>A notion of central importance in categorical topology is that of topological functor. A faithful functor $\cal E \to \cal B$ is called topological if it admits cartesian liftings of all (possibly large) families of arrows; the basic example is the forgetful functor $Top \to Set$. A topological functor $\cal E \to 1$ is the same thing as a (large) complete preorder, and the general topological functor $\cal E \to \cal B$ is intuitively thought of as a "complete preorder relative to $\cal B$". We make this intuition precise by considering an enrichment base $\cal Q_\cal B$ such that $\cal Q_\cal B$-enriched categories are faithful functors into $\cal B$, and show that, in this context, a faithful functor is topological if and only if it is total (=totally cocomplete) in the sense of Street-Walters. We also consider the MacNeille completion of a faithful functor to a topological one, first described by Herrlich, and show that it may be obtained as an instance of Isbell's generalised notion of MacNeille completion for enriched categories.</p><p>2010 MSC: 18A22, 18D20, 18B30, 06A75.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Topological functors</keyword>
+        <keyword>total categories</keyword>
+        <keyword>enriched categories</keyword>
+        <keyword>Topological functors</keyword>
+        <keyword>total categories</keyword>
+        <keyword>enriched categories</keyword>
+        <keyword>quantaloids</keyword>
+        <keyword>MacNeille completion</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="349">
+          <givenname>Richard</givenname locale="en">
+         <familyname locale="en">Garner</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">476</id>
+        <name locale="en">PDF</name>
+        <seq>14</seq>
+        <submission_file_ref id="476"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>406-421</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">477</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="477"created_at="2024-11-20" date_created="" file_id="477" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="477" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-16.pdf</name>
+      <file id="477" filesize="560900" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/16/29-16.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="164" url_path="" seq="15" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">477</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">A Bayesian characterization of relative entropy</title>
+      <abstract locale="en"><p>We give a new characterization of relative entropy, also known as the Kullback--Leibler divergence. We use a number of interesting categories related to probability theory. In particular, we consider a category FinStat where an object is a finite set equipped with a probability distribution, while a morphism is a measure-preserving function $f \maps X \to Y$ together with a stochastic right inverse $s \maps Y \to X$. The function $f$ can be thought of as a measurement process, while $s$ provides a hypothesis about the state of the measured system given the result of a measurement. Given this data we can define the entropy of the probability distribution on $X$ relative to the `prior' given by pushing the probability distribution on $Y$ forwards along $s$. We say that $s$ is `optimal' if these distributions agree. We show that any convex linear, lower semicontinuous functor from FinStat to the additive monoid $[0,\infty]$ which vanishes when $s$ is optimal must be a scalar multiple of this relative entropy. Our proof is independent of all earlier characterizations, but inspired by the work of Petz.</p><p>2010 MSC: Primary 94A17, Secondary 62F15, 18B99.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>relative entropy</keyword>
+        <keyword>Kullback-Leibler divergence</keyword>
+        <keyword>measures of information</keyword>
+        <keyword>relative entropy</keyword>
+        <keyword>Kullback-Leibler divergence</keyword>
+        <keyword>measures of information</keyword>
+        <keyword>categorical probability theory</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="164">
+          <givenname>John C.</givenname locale="en">
+         <familyname locale="en">Baez</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="394">
+          <givenname>Tobias</givenname locale="en">
+         <familyname locale="en">Fritz</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">477</id>
+        <name locale="en">PDF</name>
+        <seq>15</seq>
+        <submission_file_ref id="477"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>422-456</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">478</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="478"created_at="2024-11-20" date_created="" file_id="478" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="478" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-17.pdf</name>
+      <file id="478" filesize="325636" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/17/29-17.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="395" url_path="" seq="16" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">478</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Extending obstructions to noncommutative functorial spectra</title>
+      <abstract locale="en"><p>Any functor from the category of C*-algebras to the category of locales that assigns to each commutative C*-algebra its Gelfand spectrum must be trivial on algebras of $n$-by-$n$ matrices for $n \geq 3$. This obstruction also applies to other spectra such as those named after Zariski, Stone, and Pierce. We extend these no-go results to functors with values in (ringed) topological spaces, (ringed) toposes, schemes, and quantales. The possibility of spectra in other categories is discussed.</p><p>2010 MSC: 16B50, 46L85.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Ring spectra</keyword>
+        <keyword>Kochen-Specker Theorem Ring spectra</keyword>
+        <keyword>Kochen-Specker Theorem</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="395">
+          <givenname>Benno van den</givenname locale="en">
+         <familyname locale="en">Berg</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="284">
+          <givenname>Chris</givenname locale="en">
+         <familyname locale="en">Heunen</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">478</id>
+        <name locale="en">PDF</name>
+        <seq>16</seq>
+        <submission_file_ref id="478"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>457-474</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">479</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="479"created_at="2024-11-20" date_created="" file_id="479" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="479" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-18.pdf</name>
+      <file id="479" filesize="419639" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/18/29-18.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="396" url_path="" seq="17" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">479</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Enriched factorization systems</title>
+      <abstract locale="en"><p>In a paper of 1974, Brian Day employed a notion of factorization system in the context of enriched category theory, replacing the usual diagonal lifting property with a corresponding criterion phrased in terms of hom-objects. We set forth the basic theory of such enriched factorization systems. In particular, we establish stability properties for enriched prefactorization systems, we examine the relation of enriched to ordinary factorization systems, and we provide general results for obtaining enriched factorizations by means of wide (co)intersections. As a special case, we prove results on the existence of enriched factorization systems involving enriched strong monomorphisms or strong epimorphisms.</p><p>2010 MSC: 18A20, 18A30, 18A32, 18D20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>factorization systems</keyword>
+        <keyword>factorisation systems</keyword>
+        <keyword>enriched categories</keyword>
+        <keyword>strong factorization systems</keyword>
+        <keyword>factorisation systems</keyword>
+        <keyword>enriched categories</keyword>
+        <keyword>strong monomorphisms</keyword>
+        <keyword>strong epimorphisms</keyword>
+        <keyword>monoidal categories</keyword>
+        <keyword>closed categories</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="396">
+          <givenname>Rory B. B.</givenname locale="en">
+         <familyname locale="en">Lucyshyn-Wright</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">479</id>
+        <name locale="en">PDF</name>
+        <seq>17</seq>
+        <submission_file_ref id="479"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>475-495</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">480</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="480"created_at="2024-11-20" date_created="" file_id="480" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="480" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-19.pdf</name>
+      <file id="480" filesize="484245" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/19/29-19.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="57" url_path="" seq="18" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">480</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Sequential multicategories</title>
+      <abstract locale="en"><p>We study the monoidal closed category of symmetric multicategories, especially in relation with its cartesian structure and with sequential multicategories (whose arrows are sequences of concurrent arrows in a given category). Then we consider cartesian multicategories in a similar perspective and develop some peculiar items such as algebraic products. Several classical facts arise as a consequence of this analysis when some of the multicategories involved are representable.</p><p>2010 MSC: 18C10, 18D10, 18D50, 18D99, 18E05.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Sequential</keyword>
+        <keyword>representable</keyword>
+        <keyword>exponentiable and cartesian multicategories</keyword>
+        <keyword>Sequential</keyword>
+        <keyword>representable</keyword>
+        <keyword>exponentiable and cartesian multicategories</keyword>
+        <keyword>preadditive</keyword>
+        <keyword>additive and finite product categories</keyword>
+        <keyword>Boardman-Vogt tensor product</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="57">
+          <givenname>Claudio</givenname locale="en">
+         <familyname locale="en">Pisani</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">480</id>
+        <name locale="en">PDF</name>
+        <seq>18</seq>
+        <submission_file_ref id="480"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>496-541</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">481</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="481"created_at="2024-11-20" date_created="" file_id="481" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="481" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-20.pdf</name>
+      <file id="481" filesize="421176" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/20/29-20.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="117" url_path="" seq="19" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">481</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Continuous cohesion over sets</title>
+      <abstract locale="en"><p>A pre-cohesive geometric morphism $p:\cal E \rightarrow \cal S$ satisfies <i>Continuity</i> if the canonical $p_! (X^{p^* S}) \rightarrow (p_! X)^S$ is an iso for every $X$ in $\cal E$ and $S$ in $\cal S$. We show that if $\cal S = Set$ and $\cal E$ is a presheaf topos then, $p$ satisfies Continuity if and only if it is a quality type. Our proof of this characterization rests on a related result showing that Continuity and Sufficient Cohesion are incompatible for presheaf toposes. This incompatibility raises the question whether Continuity and Sufficient Cohesion are ever compatible for Grothendieck toposes. We show that the answer is positive by building some examples.</p><p>2010 MSC: 18B25, 03G30.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>topos</keyword>
+        <keyword>Axiomatic Cohesion topos</keyword>
+        <keyword>Axiomatic Cohesion</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="117">
+          <givenname>Matias</givenname locale="en">
+         <familyname locale="en">Menni</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">481</id>
+        <name locale="en">PDF</name>
+        <seq>19</seq>
+        <submission_file_ref id="481"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>542-568</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">482</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="482"created_at="2024-11-20" date_created="" file_id="482" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="482" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-21.pdf</name>
+      <file id="482" filesize="429364" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/21/29-21.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="397" url_path="" seq="20" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">482</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">On deformations of pasting diagrams, II</title>
+      <abstract locale="en"><p>We continue the development of the infinitesimal deformation theory of pasting diagrams of $k$-linear categories begun in TAC, Vol 22, #2. In that article the standard result that all obstructions are cocycles was established only for the elementary, composition-free parts of pasting diagrams. In the present work we give a proof for pasting diagrams in general. As tools we use the method developed by Shrestha of simultaneously representing formulas for obstructions, along with the corresponding cocycle and cobounding conditions by suitably labeled polygons, giving a rigorous exposition of the previously heuristic method; and deformations of pasting diagrams in which some cells are required to be deformed trivially.</p><p>2010 MSC: Primary: 18D05, 13D03, Secondary: 18E05.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>pasting diagrams</keyword>
+        <keyword>pasting schemes</keyword>
+        <keyword>deformation theory pasting diagrams</keyword>
+        <keyword>pasting schemes</keyword>
+        <keyword>deformation theory</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="397">
+          <givenname>Tej</givenname locale="en">
+         <familyname locale="en">Shrestha</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="273">
+          <givenname>D. N.</givenname locale="en">
+         <familyname locale="en">Yetter</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">482</id>
+        <name locale="en">PDF</name>
+        <seq>20</seq>
+        <submission_file_ref id="482"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>569-608</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">483</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="483"created_at="2024-11-20" date_created="" file_id="483" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="483" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-22.pdf</name>
+      <file id="483" filesize="466627" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/22/29-22.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="398" url_path="" seq="21" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">483</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Realizable homotopy colimits</title>
+      <abstract locale="en"><p>We show that the composition of a homotopically meaningful `geometric realization' (or simple functor) with the simplicial replacement produces all homotopy colimits and Kan extensions in a relative category which is closed under coproducts. Examples (and its duals) include model categories, $\Delta$-closed classes and other concrete examples such as complexes on (AB4) abelian categories, (filtered) commutative dg algebras and mixed Hodge complexes. The resulting homotopy colimits satisfy the expected properties as cofinality and Fubini, and are moreover colimits in a suitable 2-category of relative categories. Conversely, the existence of homotopy colimits satisfying these properties guarantees that $hocolim_{\Delta^o}$ is a simple functor.</p><p>2010 MSC: 18G55; 55U35, 18G30.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Homotopy colimit</keyword>
+        <keyword>Simplicial descent category</keyword>
+        <keyword>Grothendieck derivator Homotopy colimit</keyword>
+        <keyword>Simplicial descent category</keyword>
+        <keyword>Grothendieck derivator</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="398">
+          <givenname>Beatriz Rodriguez</givenname locale="en">
+         <familyname locale="en">Gonzalez</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">483</id>
+        <name locale="en">PDF</name>
+        <seq>21</seq>
+        <submission_file_ref id="483"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>609-634</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">484</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="484"created_at="2024-11-20" date_created="" file_id="484" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="484" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-23.pdf</name>
+      <file id="484" filesize="384562" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/23/29-23.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="399" url_path="" seq="22" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">484</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Constructing model categories with prescribed fibrant objects</title>
+      <abstract locale="en"><p>We present a weak form of a recognition principle for Quillen model categories due to J.H. Smith. We use it to put a model category structure on the category of small categories enriched over a suitable monoidal simplicial model category. The proof uses a part of the model structure on small simplicial categories due to J. Bergner. We give an application of the weak form of Smith's result to left Bousfield localizations of categories of monoids in a suitable monoidal model category.</p><p>2010 MSC: 18G55, 18D20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>model category</keyword>
+        <keyword>enriched category model category</keyword>
+        <keyword>enriched category</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="399">
+          <givenname>Alexandru E.</givenname locale="en">
+         <familyname locale="en">Stanculescu</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">484</id>
+        <name locale="en">PDF</name>
+        <seq>22</seq>
+        <submission_file_ref id="484"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>635-653</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">485</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="485"created_at="2024-11-20" date_created="" file_id="485" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="485" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-24.pdf</name>
+      <file id="485" filesize="565649" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/24/29-24.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="399" url_path="" seq="23" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">485</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Stacks and sheaves of categories as fibrant objects, I</title>
+      <abstract locale="en"><p>We show that the category of categories fibred over a site is a generalized Quillen model category in which the weak equivalences are the local equivalences and the fibrant objects are the stacks, as they were defined by J. Giraud. The generalized model category restricts to one on the full subcategory whose objects are the categories fibred in groupoids. We show that the category of sheaves of categories is a model category that is Quillen equivalent to the generalized model category for stacks and to the model category for strong stacks due to A. Joyal and M. Tierney.</p><p>2010 MSC: 18G55, 18D30, 14A20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>fibred category</keyword>
+        <keyword>model category</keyword>
+        <keyword>stack fibred category</keyword>
+        <keyword>model category</keyword>
+        <keyword>stack</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="399">
+          <givenname>Alexandru E.</givenname locale="en">
+         <familyname locale="en">Stanculescu</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">485</id>
+        <name locale="en">PDF</name>
+        <seq>23</seq>
+        <submission_file_ref id="485"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>654-695</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">486</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="486"created_at="2024-11-20" date_created="" file_id="486" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="486" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-25.pdf</name>
+      <file id="486" filesize="709342" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/25/29-25.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="373" url_path="" seq="24" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">486</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">The weakly globular double category of fractions of a category</title>
+      <abstract locale="en"><p>This paper introduces the construction of a weakly globular double category of fractions for a category and studies its universal properties. It shows that this double category is locally small and considers a couple of concrete examples.</p><p>2010 MSC: 18D05, 18E35.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>double categories</keyword>
+        <keyword>strict 2-categories</keyword>
+        <keyword>bicategories</keyword>
+        <keyword>pseudo-functors</keyword>
+        <keyword>double categories</keyword>
+        <keyword>strict 2-categories</keyword>
+        <keyword>bicategories</keyword>
+        <keyword>pseudo-functors</keyword>
+        <keyword>companions</keyword>
+        <keyword>conjoints</keyword>
+        <keyword>localizations</keyword>
+        <keyword>bicategories of fractions</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="373">
+          <givenname>Simona</givenname locale="en">
+         <familyname locale="en">Paoli</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="310">
+          <givenname>Dorette</givenname locale="en">
+         <familyname locale="en">Pronk</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">486</id>
+        <name locale="en">PDF</name>
+        <seq>24</seq>
+        <submission_file_ref id="486"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>696-774</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">487</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="487"created_at="2024-11-20" date_created="" file_id="487" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="487" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-26.pdf</name>
+      <file id="487" filesize="273349" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/26/29-26.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="349" url_path="" seq="25" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">487</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Diagrammatic characterisation of enriched absolute colimits</title>
+      <abstract locale="en"><p>We provide a diagrammatic criterion for the existence of an absolute colimit in the context of enriched category theory.</p><p>2010 MSC: 18A30, 18D20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Absolute colimits</keyword>
+        <keyword>enriched categories Absolute colimits</keyword>
+        <keyword>enriched categories</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="349">
+          <givenname>Richard</givenname locale="en">
+         <familyname locale="en">Garner</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">487</id>
+        <name locale="en">PDF</name>
+        <seq>25</seq>
+        <submission_file_ref id="487"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>775-780</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">488</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="488"created_at="2024-11-20" date_created="" file_id="488" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="488" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-27.pdf</name>
+      <file id="488" filesize="574974" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/27/29-27.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="400" url_path="" seq="26" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">488</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">On pointwise Kan extensions in double categories</title>
+      <abstract locale="en"><p>In this paper we consider a notion of pointwise Kan extension in double categories that naturally generalises Dubuc's notion of pointwise Kan extension along enriched functors. We show that, when considered in equipments that admit opcartesian tabulations, it generalises Street's notion of pointwise Kan extension in $2$-categories.</p><p>2010 MSC: 18D05, 18A40, 18D20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>double category</keyword>
+        <keyword>equipment</keyword>
+        <keyword>pointwise Kan extension</keyword>
+        <keyword>exact cell</keyword>
+        <keyword>double category</keyword>
+        <keyword>equipment</keyword>
+        <keyword>pointwise Kan extension</keyword>
+        <keyword>exact cell</keyword>
+        <keyword>tabulation</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="400">
+          <givenname>Seerp Roald</givenname locale="en">
+         <familyname locale="en">Koudenburg</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">488</id>
+        <name locale="en">PDF</name>
+        <seq>26</seq>
+        <submission_file_ref id="488"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>781-818</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">489</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="489"created_at="2024-11-20" date_created="" file_id="489" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="489" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-28.pdf</name>
+      <file id="489" filesize="328507" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/28/29-28.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="211" url_path="" seq="27" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">489</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">A Serre-Swan theorem for gerbe modules on &eacute;tale Lie groupoids</title>
+      <abstract locale="en"><p>Given a torsion bundle gerbe on a compact smooth manifold or, more generally, on a compact &eacute;tale Lie groupoid M, we show that the corresponding category of gerbe modules is equivalent to the category of finitely generated projective modules over an Azumaya algebra on M. This result can be seen as an equivariant Serre-Swan theorem for twisted vector bundles.</p><p>2010 MSC: 53C08, 55R65, 22A22.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>Gerbe modules</keyword>
+        <keyword>Lie groupoids</keyword>
+        <keyword>Serre-Swann theorem Gerbe modules</keyword>
+        <keyword>Lie groupoids</keyword>
+        <keyword>Serre-Swann theorem</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="211">
+          <givenname>Christoph</givenname locale="en">
+         <familyname locale="en">Schweigert</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="401">
+          <givenname>Christopher</givenname locale="en">
+         <familyname locale="en">Tropp</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="2" id="402">
+          <givenname>Alessandro</givenname locale="en">
+         <familyname locale="en">Valentino</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">489</id>
+        <name locale="en">PDF</name>
+        <seq>27</seq>
+        <submission_file_ref id="489"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>819-835</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">490</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="490"created_at="2024-11-20" date_created="" file_id="490" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="490" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-29.pdf</name>
+      <file id="490" filesize="467299" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/29/29-29.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="403" url_path="" seq="28" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">490</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Bicategorical fibration structures and stacks</title>
+      <abstract locale="en"><p>In this paper we introduce two notions - systems of fibrant objects and fibration structures--- which will allow us to associate to a bicategory $B$ a homotopy bicategory $Ho(B)$ in such a way that $Ho(B)$ is the universal way to add pseudo-inverses to weak equivalences in $B$. Furthermore, $Ho(B)$ is locally small when $B$ is and $Ho(B)$ is a 2-category when $B$ is. We thereby resolve two of the problems with known approaches to bicategorical localization. As an important example, we describe a fibration structure on the 2-category of prestacks on a site and prove that the resulting homotopy bicategory is the 2-category of stacks. We also show how this example can be restricted to obtain algebraic, differentiable and topological (respectively) stacks as homotopy categories of algebraic, differential and topological (respectively) prestacks.</p><p>2010 MSC: Primary: 18D05; Secondary: 18G55, 14A20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>stacks</keyword>
+        <keyword>fibrant objects</keyword>
+        <keyword>homotopy bicategory</keyword>
+        <keyword>stacks</keyword>
+        <keyword>fibrant objects</keyword>
+        <keyword>homotopy bicategory</keyword>
+        <keyword>bicategories of fractions</keyword>
+        <keyword>algebraic stacks</keyword>
+        <keyword>differentiable stacks</keyword>
+        <keyword>topological stacks</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="403">
+          <givenname>Dorette A.</givenname locale="en">
+         <familyname locale="en">Pronk</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="195">
+          <givenname>Michael A.</givenname locale="en">
+         <familyname locale="en">Warren</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">490</id>
+        <name locale="en">PDF</name>
+        <seq>28</seq>
+        <submission_file_ref id="490"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>836-873</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">491</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="491"created_at="2024-11-20" date_created="" file_id="491" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="491" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-30.pdf</name>
+      <file id="491" filesize="354096" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/30/29-30.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="404" url_path="" seq="29" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">491</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">More on geometric morphisms between realizability toposes</title>
+      <abstract locale="en"><p>Geometric morphisms between realizability toposes are studied in terms of morphisms between partial combinatory algebras (pcas). The morphisms inducing geometric morphisms (the <i>computationally dense</i> ones) are seen to be the ones whose `lifts' to a kind of completion have right adjoints. We characterize topos inclusions corresponding to a general form of relative computability. We characterize pcas whose realizability topos admits a geometric morphism to the effective topos.</p><p>2010 MSC: 18B25, 03D75.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>realizability toposes</keyword>
+        <keyword>partial combinatory algebras</keyword>
+        <keyword>geometric morphisms</keyword>
+        <keyword>realizability toposes</keyword>
+        <keyword>partial combinatory algebras</keyword>
+        <keyword>geometric morphisms</keyword>
+        <keyword>local operators</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="404">
+          <givenname>Eric</givenname locale="en">
+         <familyname locale="en">Faber</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="405">
+          <givenname>Jaap van</givenname locale="en">
+         <familyname locale="en">Oosten</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">491</id>
+        <name locale="en">PDF</name>
+        <seq>29</seq>
+        <submission_file_ref id="491"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>874-895</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">492</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="492"created_at="2024-11-20" date_created="" file_id="492" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="492" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-31.pdf</name>
+      <file id="492" filesize="558931" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/31/29-31.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="396" url_path="" seq="30" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">492</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Completion, closure, and density relative to a monad, with examples in functional analysis and sheaf theory</title>
+      <abstract locale="en"><p>Given a monad $T$ on a suitable enriched category $B$ equipped with a proper factorization system $(E,M)$, we define notions of <i>$T$-completion, $T$-closure</i>, and <i>$T$-density</i>. We show that not only the familiar notions of completion, closure, and density in normed vector spaces, but also the notions of sheafification, closure, and density with respect to a Lawvere-Tierney topology, are instances of the given abstract notions. The process of $T$-completion is equally the enriched idempotent monad associated to $T$ (which we call the <i>idempotent core of $T$)</i>, and we show that it exists as soon as every morphism in $B$ factors as a $T$-dense morphism followed by a $T$-closed $M$-embedding. The latter hypothesis is satisfied as soon as $B$ has certain pullbacks as well as wide intersections of $M$-embeddings. Hence the resulting theorem on the existence of the idempotent core of an enriched monad entails Fakir's existence result in the non-enriched case, as well as adjoint functor factorization results of Applegate-Tierney and Day.</p><p>2010 MSC: 18A20, 18A22, 18A30, 18A32, 18A40, 18B25, 18C15, 18D15, 18D20, 18F10, 18F20, 46B04, 46B10, 46B28, 46M99.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>completion</keyword>
+        <keyword>closure</keyword>
+        <keyword>density</keyword>
+        <keyword>monad</keyword>
+        <keyword>idempotent monad</keyword>
+        <keyword>idempotent core</keyword>
+        <keyword>completion</keyword>
+        <keyword>closure</keyword>
+        <keyword>density</keyword>
+        <keyword>monad</keyword>
+        <keyword>idempotent monad</keyword>
+        <keyword>idempotent core</keyword>
+        <keyword>idempotent approximation</keyword>
+        <keyword>normed vector space</keyword>
+        <keyword>adjunction</keyword>
+        <keyword>reflective subcategory</keyword>
+        <keyword>enriched category</keyword>
+        <keyword>factorization system</keyword>
+        <keyword>orthogonal subcategory</keyword>
+        <keyword>sheaf</keyword>
+        <keyword>sheafification</keyword>
+        <keyword>Lawvere-Tierney topology</keyword>
+        <keyword>monoidal category</keyword>
+        <keyword>closed category</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="396">
+          <givenname>Rory B. B.</givenname locale="en">
+         <familyname locale="en">Lucyshyn-Wright</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">492</id>
+        <name locale="en">PDF</name>
+        <seq>30</seq>
+        <submission_file_ref id="492"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>896-928</pages>
+    </publication>
+  </article>
+
+  <article xmlns="https://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" date_submitted="2024-11-20" status="3" submission_progress="" current_publication_id="1" stage="production" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+    <id type="internal" advice="ignore">493</id>
+    <submission_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="493"created_at="2024-11-20" date_created="" file_id="493" stage="submission" updated_at="2024-11-20" viewable="true" genre="Article Text" source_submission_file_id="493" uploader="admin" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <name locale="en">29-32.pdf</name>
+      <file id="493" filesize="396990" extension="pdf">
+        <href src="http://www.tac.mta.ca/tac/volumes/29/32/29-32.pdf"/>
+      </file>
+    </submission_file>
+    <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" status="3" primary_contact_id="154" url_path="" seq="31" access_status="0" date_published="2024-11-20" section_ref="ART" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+      <id type="internal" advice="ignore">493</id>
+      <id type="doi" advice="update">10.1119/5.0158200</id>
+      <title locale="en">Iterated icons</title>
+      <abstract locale="en"><p>We study the totality of categories weakly enriched in a monoidal bicategory using a notion of enriched icon as 2-cells. We show that when the monoidal bicategory in question is symmetric then this process can be iterated. We show that starting from the symmetric monoidal bicategory <b>Cat</b> and performing the construction twice yields a convenient symmetric monoidal bicategory of partially strict tricategories. We show that restricting to the doubly degenerate ones immediately gives the correct bicategory of `2-tuply monoidal categories' missing from our earlier studies of the Periodic Table. We propose a generalisation to all $k$-tuply monoidal $n$-categories.</p><p>2010 MSC: Primary 18A05, 18D05, 18D10, 18D20.</p></abstract>
+      <licenseURL>http://www.tac.mta.ca/tac/consent.html</licenseURL>
+      <copyrightHolder locale="en">author</copyrightHolder>
+      <copyrightYear>2014</copyrightYear>
+      <keywords locale="en">
+        <keyword>symmetric monoidal bicategory</keyword>
+        <keyword>icon</keyword>
+        <keyword>enriched category symmetric monoidal bicategory</keyword>
+        <keyword>icon</keyword>
+        <keyword>enriched category</keyword>
+      </keywords>
+      <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <author include_in_browse="true" user_group_ref="Author" seq="0" id="154">
+          <givenname>Eugenia</givenname locale="en">
+         <familyname locale="en">Cheng</surname>
+          <email>madeup@email.org</email>
+        </author>
+        <author include_in_browse="true" user_group_ref="Author" seq="1" id="240">
+          <givenname>Nick</givenname locale="en">
+         <familyname locale="en">Gurski</surname>
+          <email>madeup@email.org</email>
+        </author>
+      </authors>
+      <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en" url_path="" approved="false" xsi:schemaLocation="https://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">493</id>
+        <name locale="en">PDF</name>
+        <seq>31</seq>
+        <submission_file_ref id="493"/>
+      </article_galley>
+      <issue_identification>
+        <volume>29</volume>
+        <year>2014</year>
+      </issue_identification>
+      <pages>929-977</pages>
+    </publication>
+  </article>
+</articles>
