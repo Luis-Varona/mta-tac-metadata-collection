@@ -3,7 +3,9 @@
 Collecting metadata for Mount Allison University's [*Theory and Applications of Categories*](http://www.tac.mta.ca/tac/) journal. Preparing an XML file on each volume for the Public Knowledge Project's [*Open Journal Systems* database](https://pkp.sfu.ca/software/ojs/).
 
 ## How it works
-- listcle stuff here
+- gather data (scrape nicely) from Theory and Applications of Categories webpage
+- clean and organize HTML data to appropriate XML format
+- organizing by journals, volumes, articles 
 
 ## Task List
 
@@ -19,16 +21,19 @@ Collecting metadata for Mount Allison University's [*Theory and Applications of 
 ```
 .
 └── mta-tac-metadata-collection
-    ├── Article.java
-    ├── Journal.java
-    ├── README.md
-    ├── TACMetadata.java
-    ├── Volume.java
-    ├── XmlDocument.java
-    └── metadata
+    ├── Article.java // creating Article objects from TACMetadata
+    ├── Journal.java // creating Journal objects from Volume objects & author information
+    ├── README.md // project explanation
+    ├── TACMetadata.java // converting HTML data into parseable, usable, objects
+    ├── Volume.java // creating Volume objects from Articles
+    ├── XmlDocument.java // Converting HTML data to correct XML formats
+    └── metadata // created XML files for each volume 
         ├── TAC_vol01.xml
         ├── TAC_vol02.xml
         ├── TAC_vol03.xml
         ├── TAC_vol04.xml
         └── ...
 ```
+
+##
+README made by consulting [UC Berkley Documentation Guide](https://guides.lib.berkeley.edu/how-to-write-good-documentation)

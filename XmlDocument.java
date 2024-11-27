@@ -12,7 +12,13 @@ public class XmlDocument {
     private final String dateCreated;
     private final String document;
     
-    //
+    /* 
+     * Constructor fro XMLDocument
+     * assigns volume & authorIDs paramters to respective fields of the class
+     * assigns initDateCreated() value to dateCreated field
+     * assigns buildDocument() value to document field
+     * takes in: Volume obj volume, HashMap<Author, AuthorID> obj authorIDs
+     */
     public XmlDocument(Volume volume, HashMap<String, Integer> authorIDs) {
         this.volume = volume;
         this.authorIDs = authorIDs;
@@ -20,11 +26,15 @@ public class XmlDocument {
         this.document = buildDocument();
     }
     
-    //
+    // returns volume field data
     public int getVolume() {
         return this.volume.getVolume();
     }
     
+    /* 
+     * create a new file @ path from String path, create parent directories & write document field data to file
+     * takes in: String path
+     */
     public void saveToFile(String path) throws IOException {
         File file = new File(path);
         file.getParentFile().mkdirs();
@@ -32,12 +42,19 @@ public class XmlDocument {
         Files.writeString(file.toPath(), this.document);
     }
     
+    /* 
+     * Overrides Java toString()
+     * return val of document field as String; XML doc to String
+     */
     @Override
     public String toString() {
         return this.document;
     }
     
-    //
+    /* 
+     * assign ZonedDateTime obj now to current Date & Time
+     * returns string of Date in format YYYY-MM-DD
+     */
     private String initDateCreated() {
         ZonedDateTime now = ZonedDateTime.now();
         return String.format("%d-%02d-%02d",
@@ -46,6 +63,14 @@ public class XmlDocument {
                              now.getDayOfMonth());
     }
     
+    /* 
+     * append XML details, schema instance & schema location to appropriately set up root elem of XML doc to doc StringBuilder
+     * assign volume's articles and fileIDs to Article[] and fileID int respectively
+     * loop through article objects in article & append XML block created upon calling buildXmlBlock() and passing the current article, fileID & sequence in volume
+     * add a new line string after every created XML block then increment 
+     * delete last elem of doc and replace with closing XML tag </articles>
+     * returns: Stringified doc
+     */
     private String buildDocument() {
         StringBuilder doc = new StringBuilder(192000);
         doc.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n");
@@ -65,6 +90,11 @@ public class XmlDocument {
         return doc.toString();
     }
     
+    /* 
+     * append various metadata elems (i.e. authors, keywords, publication info, etc) based on XML best practices for OJS to a stringBuilder `sb`
+     * takes in: Article obj article, Int fileID, Int seqInVol
+     * returns: XML String
+     */
     private String buildXmlBlock(Article article, int fileID, int seqInVol) {
         String[] authors = article.getAuthors();
         StringBuilder block = new StringBuilder(3200);
@@ -183,10 +213,16 @@ public class XmlDocument {
         return block.toString();
     }
     
+    /* 
+     * assign int i to last index in author where there's a ' '
+     * takes in: String author
+     * return Author record; givenName -> index 0 to i, familyName - > char after i to end 
+     */
     private Author separateAuthorNames(String author) {
         int i = author.lastIndexOf(' ');
         return new Author(author.substring(0, i), author.substring(i + 1));
     }
 }
 
+// Author record to store givenName and familyName
 record Author(String givenName, String familyName) {}
