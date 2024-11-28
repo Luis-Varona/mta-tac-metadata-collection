@@ -140,7 +140,7 @@ public class Article {
     private int initFileSize() {
         try {
             HttpURLConnection con = (HttpURLConnection) new URI(this.pdfSource).toURL()
-            .openConnection();
+                .openConnection();
             con.setRequestMethod("HEAD");
             int init = con.getContentLength();
             con.disconnect();
