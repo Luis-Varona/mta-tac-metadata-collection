@@ -16,7 +16,11 @@ public class Article {
     private final int volume, year;
     private final int startPage, endPage;
     
-    //
+    /* 
+     * Article constructor
+     * stream htmlSource into an Array htmlLines, split by new line, strip whitespace & store in LinkedList
+     * call the appropriate methods to get specific metadata then assign to corresponding fields of Article object
+     */
     public Article(String htmlSource) {
         this.htmlLines = Arrays.stream(htmlSource.split("\n"))
                 .map(String::strip)
@@ -55,6 +59,18 @@ public class Article {
     public int getStartPage() { return this.startPage; }
     public int getEndPage() { return this.endPage; }
     
+    /* 
+     * Override toString method for our purposes; stringifying author names based on num of authors
+     * loop num of authors; initialize a String[] names of String objects from authors[i] split the strings at " "
+     * assign last elem of names[] to lastNames[i]
+     * depending on k:
+     *    case 1) if = 1, assign lastNames[0] to authorField
+     *    case 2) if = 2, assign 1st & 2nd last name to authorField using format `last_name_1 and last_name_2`
+     *    case 3) if = 3 using String builder to:
+     *       append first two last names to sb, seperated by ", " then append third last name with "and "
+     * if k isn't case 1-3 then assign authorField to String with format 1st last name and " et al."
+     * return String in format title (authorField, year)
+     */
     @Override
     public String toString() {
         String authorField;
@@ -85,7 +101,14 @@ public class Article {
         return String.format("%s (%s %d)", this.title, authorField, this.year);
     }
     
-    //
+    /* 
+     * Iterate over htmlLines to find pdf file names; if a line doesn't contain "citation_pdf_url" & matches the pattern: [any char][any digit][.]["pdf"][any char]
+     * split lines by double quotes ("), extract string between quotes and assign to init, then break
+     * if init is null, iterate over htmlLines, if line matches pattern [any char][any digit][.]["dvi" OR "ps"][any char]:
+     *    split lines by double quotes ("), extract string between quotes and assign to init
+     *    then replace any notion of [.]"dvi" OR [.]"ps" with ".pdf", then break
+     * returns String init, which is pdf file name 
+     */
     private String initPdfSource() {
         String init = null;
         
@@ -109,6 +132,11 @@ public class Article {
         return init;
     }
     
+    /* 
+     * create a HttpURLConnection from pdfSource, once Connection is open get server metadata & length of said metadata (init)
+     * catch any input/output exceptions or URISyntaxException errors
+     * returns: init Int, file size
+     */
     private int initFileSize() {
         try {
             HttpURLConnection con = (HttpURLConnection) new URI(this.pdfSource).toURL()
@@ -123,11 +151,22 @@ public class Article {
         }
     }
     
+    /* 
+     * initiate a String[] of strings (URL paths) from pdfSource split on the "/"
+     * returns: last elem of string[]  
+     */
     private String initName() {
         String[] href = this.pdfSource.split("/");
         return href[href.length - 1];
     }
     
+    /* 
+     * extracting the text between the first <h1> tags in the HTML by:
+     *    1. iterating over htmlLines, skip lines until an <h1> tag is found, move to the next line.
+     *    2. Append lines to a StringBuilder `sb` with a " " until a </h1> tag is found.
+     * init String comprises: replacing any whitespace surrounding <p> or </> with " ", then stripChars with " ," substring
+     * returns: hard coded title corrections from TITLE_CORRECTIONS, getOrDefault gets val associated with key init or replaces with init val
+     */
     private String initTitle() {
         StringBuilder sb = new StringBuilder();
         Iterator<String> htmlIter = this.htmlLines.iterator();
@@ -148,6 +187,18 @@ public class Article {
         return Corrections.TITLE_CORRECTIONS.getOrDefault(init, init);
     }
     
+    /* 
+     * extracting the text between the first <h1> and <h2> tags in the HTML by:
+     *    1. iterating over htmlLines, skip lines until an </h1> tag is found, move to the next line.
+     *    2. Skip empty lines or lines containing <h2> tags.
+     *    3. Append lines to a StringBuilder `sb` with a " " until a <h2> or </h2> tag is found.
+     * authorList String[] is created by converting `sb` to string, replacing " and "  with "," & split on "," 
+     * for strings in in authorList:
+     *    1. create author string from stripChars() on " ," substrings, replacing all extra whitespaces with "", adding a space after "." between two letters.
+     * if author is not an "":
+     *    1. if author string is "Jr.", replace last val of init with ", Jr." OR if not just add to init
+     * return: converted init to an Array of Strings
+     */
     private String[] initAuthors() {
         StringBuilder sb = new StringBuilder();
         Iterator<String> htmlIter = this.htmlLines.iterator();
@@ -190,6 +241,19 @@ public class Article {
         return init.toArray(String[]::new);
     }
     
+    /* 
+     * iterate over htmlLines until a line contains "</h2>", "<p>", or "Keywords:"
+     * if a line doesn't contain "Keywords:" then add the line to StringBuilder `sb`  and a " " before moving to next
+     * abstractInit is created by converting `sb` to string, replacing "<p>" or "</p>" with " ", strip whitespaces, 
+     * replacing any whitespaces with " ", & if a <br> tag is surrounded by whitespace or adjacent with whitespace, replace with single <br>
+     * with the changes iterate again until  a line contains "Keywords:", a <p> while ignoring </p>
+     * if a line does not contain the string "</p>" or is not exactly equal to "</p>" then add the line to StringBuilder `sb`  and a " " before moving to next
+     * now we can create classifInit from `sb` by replacing "<p>" or "</p>" with " ", strip whitespaces, 
+     * replacing ", with ", " & andy whitespaces with a singular " "
+     * if classifInit does not end with ".", add "."
+     * now creating `sb` correctly by surrounding abstractInit and classifInit with opening and closing <p> tags
+     * returns: `sb` as a String
+     */
     private String initAbstract() {
         StringBuilder sb = new StringBuilder();
         Iterator<String> htmlIter = this.htmlLines.iterator();
@@ -255,6 +319,21 @@ public class Article {
         return sb.toString();
     }
     
+    /* 
+     * iterate over htmlLines til line contains "Keywords:" but does not end with it
+     * add the line to StringBuilder `sb` and a space
+     * once a </p> html tag is found, add the line to `sb` and a space
+     * create an Array of Strings `keywordList` from splitting `sb` at either the ',' or ';'
+     * for each String in keywordList:
+     *    1. replace all subtrings of "Keywords:", or "<p>", or "</p>" with ", "
+     *    2. use stripChars() to remove any occurrences of " ." from the beginning and end of string
+     *    3. replace any whitespace chars with " " 
+     *    4. if a hyphen is surrounded by whitespace or adjacent with whitespace, replace with single hyphen
+     * if a keyword is not "" & if our LinkedList is both !empty && its last node ends with "-"; add the last node + keyword to the LinkedList
+     * else: just add the keyword
+     * then create a String[] with the values from init
+     * returns string[]
+     */
     private String[] initKeywords() {
         StringBuilder sb = new StringBuilder();
         Iterator<String> htmlIter = this.htmlLines.iterator();
@@ -296,6 +375,15 @@ public class Article {
         return init.toArray(String[]::new);
     }
     
+    /* 
+     * iterate over htmlLines LinkedList; if line doesn't contain Strings "Keywords:" or "Vol.", or ends with "Keywords:" move to next
+     * iterator issueInfo splits array lines at blank space, String elem is issueInfo line after removing any occurrences of " ," from the beginning and end of string
+     * continue stripChars() til "Vol." is all that remains
+     * volumeInit follows same logic; parse String issueInfo as an Int, remove any occurrences of " ," from the beginning and end of string
+     * same for yearElem though if the string starts with "CT" start parsing as Int at index 3
+     * create a new issueIdent obj of VolumeInit, yearInit
+     * returns: initIssueIdent
+     */
     private IssueIdent initIssueIdent() {
         Iterator<String> htmlIter = this.htmlLines.iterator();
         String line = htmlIter.next();
@@ -333,6 +421,16 @@ public class Article {
         return new IssueIdent(volumeInit, yearInit);
     }
     
+    /* 
+     * check if any pages need corrections from Corrections
+     * initalize page pattern reg ex for method to recognize i.e. "pp X-Y", "ppX-Y", "pp. X-Y", "pp.X-Y", "pp .X-Y"
+     * match pattern against htmlLines
+     * new matcher pageMatch finds pattern of 1+ digits, followed by a hyphen, then 1+ digits; find page numbers amongst page patterns
+     * find next subsequence that matches the sequence input of pageMatch 
+     * group all those page sequences together in String array pagelist, split at hyphen
+     * update init record with PageRange which consists of first and last integer found in pageList String at index
+     * returns: PageRange record init
+     */
     private PageRange initPages() {
         PageRange init;
         
@@ -363,7 +461,13 @@ public class Article {
         return init;
     }
     
-    //
+    /* 
+     * remove any occurrences of sequences in chars from the beginning and end of s string
+     * repeatedly remove first character of s if it matches any character in chars
+     * remove last character of s if any sequence in chars is present in s.
+     * takes in: String s & String chars
+     * returns: String s
+     */
     private String stripChars(String s, String chars) {
         while (s.matches(String.format("[%s].*", chars))) {
             s = s.substring(1);
